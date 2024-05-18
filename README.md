@@ -1,5 +1,6 @@
 <div align="center">Hi,I'm Eric Funez👋</div>
 <img src="https://imgur.com/C2EYpH2"> 
+<blockquote class="imgur-embed-pub" lang="en" data-id="C2EYpH2" data-context="false" ><a href="//imgur.com/C2EYpH2"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <!--
 **EricFZX/EricFZX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
