@@ -1,7 +1,4 @@
 <div align="center">Hi,I'm Eric Funez👋</div>
-<div align="center"><img src="https://img.freepik.com/vector-gratis/fondo-tecnologico-abstracto_23-2148897676.jpg" height"150px"=></div>
-
-
 - 🔭 Geek with all things related to hardware
 - 🌱 I’m currently learning flutter(Dart)
 - 👯 I’m looking to collaborate on internships
