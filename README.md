@@ -1,17 +1,14 @@
 <div align="center">Hi,I'm Eric Funez👋</div>
-<img src="https://imgur.com/C2EYpH2"> 
-<blockquote class="imgur-embed-pub" lang="en" data-id="C2EYpH2" data-context="false" ><a href="//imgur.com/C2EYpH2"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-<!--
-**EricFZX/EricFZX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="//imgur.com/C2EYpH2">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Geek with all things related to hardware
+- 🌱 I’m currently learning flutter(Dart)
+- 👯 I’m looking to collaborate on internships
+- 🤔 I’m looking for help to potential my skills.
+<b>-Languages:</b>
+<ul>
+  <li>Spanish(Native)</li>
+  <li>English(Advanced)</li>
+</ul>
+
